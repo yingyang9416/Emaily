@@ -7,5 +7,8 @@ module.exports = {
     'mongodb://yingyang:Yy19940106@ds259305.mlab.com:59305/emaily-group',
   cookieKey: 'gfhcfxzdfghrsesdgffxfzdfgh',
   stripePublishableKey: 'pk_test_2809K6ulbyikUqysqzMi2LGO',
-  stripeSecretKey: 'sk_test_E3G9JTcFtQQcDVpFbuC8zKNd'
+  stripeSecretKey: 'sk_test_E3G9JTcFtQQcDVpFbuC8zKNd',
+  sendGridKey:
+    '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',
+  redirectDomain: 'http://localhost:3000'
 };
